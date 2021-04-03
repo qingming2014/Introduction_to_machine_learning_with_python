@@ -1,2 +1,0 @@
-# Introduction_to_machine_learning_with_python
-machine_learning
